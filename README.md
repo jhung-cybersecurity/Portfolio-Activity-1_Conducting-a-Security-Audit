@@ -14,17 +14,18 @@ posture of the organization. The audit team needs to document their findings, pr
 remediation plans and efforts, and communicate with stakeholders.
 ```
 
-I will need to complete two tasks:  
+I will need to complete a few tasks:  
    1. Controls Assessment
    2. Compliance Checklist
+   3. Stakeholder Memorandum
 
-These two tasks will be seperated into two different `Branches` in `Main` and they are labeled accordingly.  
+These tasks will be seperated into different `Branches` under `Main` and they will be labeled accordingly.  
 
 The purpose of this assignment is to:  
 
-> 1. Demonstrate my ability to select, rate, and explain the specific controls and compliance regulations and standards that Botium Toys need to implement to mitigate risks to people and assets.
+> 1. Demonstrate my ability to select, rate, and explain the specific controls and compliance regulations and standards that Botium Toys need to implement to mitigate risks to people and assets. All of the assessment will be communicated at the end to the IT Manager & Stakeholders for final review.  
 > 2. Display my newly acquired knowledge in _Markdown_ syntax usage. 
 
-Please begin by reviewing **Controls Assessment** followed by **Compliance Checklist**.  
+Please begin by reviewing **Controls Assessment** followed by **Compliance Checklist** and lastly **Stakeholder Memorandum**. 
 
 
